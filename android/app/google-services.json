@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96989262865",
+    "project_id": "playstaxion-11b6a",
+    "storage_bucket": "playstaxion-11b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96989262865:android:be4211249b12e73c7f6db0",
+        "android_client_info": {
+          "package_name": "com.playstaxion.coderzden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96989262865-shmqrvo0ht5socnq384djkcr4idt4e26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD46xxQC1_5tJoG5fbkxH2uIuSyGIv7Tuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96989262865-shmqrvo0ht5socnq384djkcr4idt4e26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

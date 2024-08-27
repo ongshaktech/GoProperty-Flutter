@@ -1,0 +1,11 @@
+  keytool -genkey -v -keystore c:/Users/user/StudioProjects/GeoProperti/playstore\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias coderzden
+
+Password:coderzden@@ongshak
+Name:Coderzden
+Unit: APP
+Organization Name:Playstaxion
+City: Dhaka
+State:Dhaka
+Country: BD
+
+Is CN=Coderzden, OU=APP, O=Playstaxion, L=Dhaka, ST=Dhaka, C=BD correct?
